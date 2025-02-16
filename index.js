@@ -1,2 +1,3 @@
 console.log("Olá, Git!");
-console.log("Alteração no novo branch!");
+console.log("Criando alteração no novo branch!");
+console.log("Nova mensagem de alteração!")
